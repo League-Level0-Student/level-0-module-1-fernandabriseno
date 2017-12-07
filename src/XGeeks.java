@@ -21,12 +21,20 @@ public static void main(String[] args) {
 	String AndrewsPower = "Turn into an asian panda"; 
 	String RyansPower = "Mind controlling";
 	String NathanPower = "hacking free roblox and the pentagon"; 
-	String EnterNamePower = "person that has nothing better to do than do this... it is my great honor... I have no honor... to grant you the power of..... reading this!!!!!! :) GOODBYE!";
+	String EnterNamePower = "person that has nothing better to do than to do this... it is my great honor... to grant you the power of..... reading this!!!!!! :) GOODBYE!(You just wasted your time)HA!";
 		// 2. Ask the user to enter a name. Store their answer in a variable.
 String a=JOptionPane.showInputDialog("Enter name");
 		// 3. Show the superpower in a pop-up, depending on the name entered. 
 JOptionPane.showMessageDialog(null,"Hello..."+ EnterNamePower); 
-if(a.equals("EnterNamePower"));
+if(a.equals("EnterNamePower")); 
+if(a.equals("MattsPower")); 
+if(a.equals("TiernansPower")); 
+if(a.equals("FernandasPower")); 
+if(a.equals("AndrewsPower")); 
+if(a.equals("RyansPower")); 
+if(a.equals("NathanPower")); 
+
+
 
 	}
 }
